@@ -13,9 +13,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 ![CI](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-<!-- Add the live link here once deployed -->
-<!-- **[🌐 Live Demo](https://your-demo-url)** · -->
-**[📖 API Docs (Swagger)](#-api-documentation)** · **[🚀 Run Locally](#-getting-started)** · **[👥 Team](#-team)**
+**[▶️ Watch the Demo](https://youtu.be/hex3cFJ6v4k)** · **[📖 API Docs (Swagger)](#-api-documentation)** · **[🚀 Run Locally](#-getting-started)** · **[👥 Team](#-team)**
 
 <img src="docs/screenshots/home.png" alt="ALBAB home page" width="900"/>
 
@@ -115,6 +113,14 @@ each of the platform's **4 user roles**.
 - **Brute-force protection:** failed-login rate limiting
 - **OTP email verification** for sign-up, password change and email change
 - All secrets come from environment variables — nothing sensitive in config files
+
+## 🎬 Demo Video
+
+A one-minute walkthrough of the customer flow — browse, sign in, customize a dish, cart, checkout and order placed:
+
+<a href="https://youtu.be/hex3cFJ6v4k">
+  <img src="https://img.youtube.com/vi/hex3cFJ6v4k/hqdefault.jpg" alt="Watch the ALBAB demo on YouTube" width="640"/>
+</a>
 
 ## 📸 Screenshots
 
