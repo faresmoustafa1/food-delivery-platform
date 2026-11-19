@@ -160,6 +160,16 @@ npm start
 ```
 </details>
 
+## ☁️ Deployment
+
+The repository includes a [Render Blueprint](render.yaml) that deploys the whole stack —
+PostgreSQL, the Spring Boot API and the Angular site — on Render's free tier:
+
+1. Render dashboard → **New → Blueprint** → select this repository
+2. Click **Apply** — Render provisions the database, builds both apps and wires them together
+
+The frontend proxies `/api/*` to the backend, so both are served from a single URL.
+
 ## 📖 API Documentation
 
 Interactive docs are available at **`/swagger-ui.html`** when the backend is running.
