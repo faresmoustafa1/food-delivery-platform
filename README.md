@@ -11,7 +11,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
-![CI](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 **[▶️ Watch the Demo](https://youtu.be/hex3cFJ6v4k)** · **[📖 API Docs (Swagger)](#-api-documentation)** · **[🚀 Run Locally](#-getting-started)** · **[👥 Team](#-team)**
 
@@ -49,7 +48,6 @@ each of the platform's **4 user roles**.
 | Client-side routes | **36** |
 | Route guards | **3** |
 | Layouts (customer, admin, kitchen, auth, checkout) | **5** |
-| CI/CD pipelines | **2** |
 | Commits | **140+** |
 
 ## ✨ Features
@@ -105,7 +103,7 @@ each of the platform's **4 user roles**.
 | **Auth & Security** | Stateless JWT, role-based access control, BCrypt, login rate limiting, CORS, email OTP |
 | **Database** | PostgreSQL 16, Flyway (versioned migrations + seed data) |
 | **API Docs** | SpringDoc OpenAPI / Swagger UI |
-| **DevOps** | Docker, Docker Compose, nginx, GitHub Actions (CI build + tests, CD to GHCR) |
+| **DevOps** | Docker, Docker Compose, nginx |
 
 ## 🔐 Security Highlights
 - **JWT** access tokens with configurable expiry, validated by a custom `JwtAuthenticationFilter`
@@ -219,7 +217,6 @@ food-delivery-platform/
 │       ├── features/        # customer, kitchen, driver, admin, ...
 │       ├── layouts/         # one layout per role
 │       └── shared/          # reusable UI
-├── .github/workflows/       # CI + CD
 └── docker-compose.yml
 ```
 
