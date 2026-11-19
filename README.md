@@ -227,25 +227,25 @@ food-delivery-platform/
 
 This project was built by a team of interns, split into frontend and backend tracks.
 
-### 🎨 Frontend Team
+### 🎨 Frontend
 
-| Name | Role / Contribution | GitHub | LinkedIn |
-| --- | --- | --- | --- |
-| _Name_ | _e.g. Customer pages, cart & checkout_ | https://github.com/faresmoustafa1
-| _Name_ | _e.g. Kitchen portal & admin dashboard_ | https://github.com/Thurayakhaled
-| _Name_ | _Contribution_ | https://github.com/AminaAhmed05
+| Name | Role | GitHub |
+| --- | --- | --- |
+| Ahmed Ehab | Frontend Developer | [@ahmedehabcs](https://github.com/ahmedehabcs) |
 
-### ⚙️ Backend Team
+### ⚙️ Backend
 
-| Name | Role / Contribution | GitHub | LinkedIn |
-| --- | --- | --- | --- |
-| _Name_ | _e.g. Authentication, JWT & OTP_ | https://github.com/ahmedehabcs
+| Name | Role | GitHub |
+| --- | --- | --- |
+| Fares Moustafa | Backend Developer | [@faresmoustafa1](https://github.com/faresmoustafa1) |
+| Thuraya Khaled | Backend Developer | [@Thurayakhaled](https://github.com/Thurayakhaled) |
+| Amina Ahmed | Backend Developer | [@AminaAhmed05](https://github.com/AminaAhmed05) |
 
-### 🧭 Mentor / Supervisor
+### 🧭 Supervisor
 
-| Name | Role |
-| --- | --- |
-https://github.com/EmaddMahfouz
+| Name | Role | GitHub |
+| --- | --- | --- |
+| Emad Mahfouz | Project Supervisor | [@EmaddMahfouz](https://github.com/EmaddMahfouz) |
 
 ---
 
