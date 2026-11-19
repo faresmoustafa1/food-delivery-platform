@@ -13,8 +13,8 @@ COPY pom.xml .
 RUN mvn -B --no-transfer-progress dependency:go-offline
 
 COPY src ./src
-# Tests run in CI against a real Postgres service (see .github/workflows/ci.yml).
-# Repeating them here would need a database inside the image build, so skip.
+# Tests need a real Postgres, so they run outside the image build (./mvnw verify).
+# Running them here would need a database inside the image build, so skip.
 RUN mvn -B --no-transfer-progress clean package -DskipTests
 
 # --- runtime stage -----------------------------------------------------------
