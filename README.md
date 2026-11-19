@@ -231,23 +231,21 @@ This project was built by a team of interns, split into frontend and backend tra
 
 | Name | Role / Contribution | GitHub | LinkedIn |
 | --- | --- | --- | --- |
-| _Name_ | _e.g. Customer pages, cart & checkout_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| _Name_ | _e.g. Kitchen portal & admin dashboard_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| _Name_ | _Contribution_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| _Name_ | _e.g. Customer pages, cart & checkout_ | https://github.com/faresmoustafa1
+| _Name_ | _e.g. Kitchen portal & admin dashboard_ | https://github.com/Thurayakhaled
+| _Name_ | _Contribution_ | https://github.com/AminaAhmed05
 
 ### ⚙️ Backend Team
 
 | Name | Role / Contribution | GitHub | LinkedIn |
 | --- | --- | --- | --- |
-| _Name_ | _e.g. Authentication, JWT & OTP_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| _Name_ | _e.g. Orders & delivery workflow_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| _Name_ | _Contribution_ | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| _Name_ | _e.g. Authentication, JWT & OTP_ | https://github.com/ahmedehabcs
 
 ### 🧭 Mentor / Supervisor
 
 | Name | Role |
 | --- | --- |
-| _Name_ | _Internship supervisor_ |
+https://github.com/EmaddMahfouz
 
 ---
 
